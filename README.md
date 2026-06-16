@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-prohibidas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Caricias prohibidas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-prohibidas/) |
+| **Get License** | [Official Music Licensing for Caricias prohibidas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-prohibidas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a6723aabdf4f66947201b2c178f99421e2f106a67bc486741cdcab1ffef00f05` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
